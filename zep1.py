@@ -92,6 +92,7 @@ while opmenu != 0:
                     print('escolha um numero inteiro valido!!')
         else:
             print('nome de adm ou senha invalidas')
+
     elif opmenu == 2:
         cine.cadastrar_cliente(usuarios)
     elif opmenu == 3:
